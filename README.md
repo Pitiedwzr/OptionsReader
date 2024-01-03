@@ -1,2 +1,2 @@
 # OptionsReader
-Read options of a game and write into a config. 
+Read options of ~~Project Sekai Desktop~~ and write into a config. 
